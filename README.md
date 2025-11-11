@@ -1,2 +1,2 @@
-# first_repo
+# python-hangman
 my first github repo
