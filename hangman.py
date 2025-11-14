@@ -105,3 +105,4 @@ while hangmanpics_index < 6 and not won:
         print("you lose!")
         break
 print(f"the word was {chosen_word}.")
+print(HANGMANPICS[6])
